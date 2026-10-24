@@ -1,6 +1,6 @@
 {
   "proyecto": "HDD UTP",
   "version": "1.0.0",
-  "puerto": 5000,
+  "puerto": 8080,
   "modo": "produccion"
 }
