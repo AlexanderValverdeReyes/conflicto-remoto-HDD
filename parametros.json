@@ -1,0 +1,6 @@
+{
+  "proyecto": "HDD UTP",
+  "version": "1.0.0",
+  "puerto": 3000,
+  "modo": "produccion"
+}
